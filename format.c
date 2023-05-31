@@ -1,10 +1,10 @@
 #include<stdio.h>
 
 int main () {
-        int Ganzzahl = 56789;
+        int Ganzzahl = 5494;
         float Gleitkommazahl = 567.89;
-        char Character = 'b';
-        char String[]="Das ist ein String";
+        char Character = 'd';
+        char String[]="Das war ein String";
 
         printf("Ganzzahl: %i \n", Ganzzahl);
         printf("Gleitkommazahl: %.2f\n", Gleitkommazahl);
